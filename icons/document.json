@@ -1,0 +1,1461 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "124D7365-9A70-4890-A639-5781747B658B",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+    {
+      "_class": "MSImmutableForeignSymbol",
+      "libraryID": "24D65677-32E2-4022-B33E-F4B3EDB1E241",
+      "originalMaster": {
+        "_class": "symbolMaster",
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "changeIdentifier": 0,
+        "do_objectID": "56D4559A-A849-4417-9B7D-F5FA48309366",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 200,
+          "width": 200,
+          "x": 1271,
+          "y": 0
+        },
+        "hasBackgroundColor": false,
+        "hasClickThrough": true,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": true,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "layers": [
+          {
+            "_class": "shapeGroup",
+            "clippingMaskMode": 0,
+            "do_objectID": "05F39A1F-739C-4C0D-9C10-2C6BD61CC5E6",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": false,
+              "height": 199.9999999999999,
+              "width": 200,
+              "x": -2.842170943040401e-14,
+              "y": -5.684341886080801e-14
+            },
+            "hasClickThrough": false,
+            "hasClippingMask": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 1,
+            "layers": [
+              {
+                "_class": "rectangle",
+                "booleanOperation": -1,
+                "do_objectID": "37DB69D3-C42C-4BFF-8CDD-254E95DCCED4",
+                "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
+                "fixedRadius": 0,
+                "frame": {
+                  "_class": "rect",
+                  "constrainProportions": false,
+                  "height": 199.9999999999999,
+                  "width": 200,
+                  "x": 0,
+                  "y": 0
+                },
+                "hasConvertedToNewRoundCorners": true,
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "isLocked": false,
+                "isVisible": true,
+                "layerListExpandedType": 0,
+                "name": "Path",
+                "nameIsFixed": false,
+                "path": {
+                  "_class": "path",
+                  "isClosed": true,
+                  "pointRadiusBehaviour": 0,
+                  "points": [
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{0, 0}",
+                      "curveMode": 1,
+                      "curveTo": "{0, 0}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{0, 0}"
+                    },
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{1, 0}",
+                      "curveMode": 1,
+                      "curveTo": "{1, 0}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{1, 0}"
+                    },
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{1, 1}",
+                      "curveMode": 1,
+                      "curveTo": "{1, 1}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{1, 1}"
+                    },
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{0, 1}",
+                      "curveMode": 1,
+                      "curveTo": "{0, 1}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{0, 1}"
+                    }
+                  ]
+                },
+                "resizingConstraint": 63,
+                "resizingType": 0,
+                "rotation": 0,
+                "shouldBreakMaskChain": false
+              }
+            ],
+            "name": "Color",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "borders": [
+                {
+                  "_class": "border",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.592,
+                    "green": 0.592,
+                    "red": 0.592
+                  },
+                  "fillType": 0,
+                  "isEnabled": false,
+                  "position": 1,
+                  "thickness": 1
+                }
+              ],
+              "endDecorationType": 0,
+              "fills": [
+                {
+                  "_class": "fill",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.1529283588435374,
+                    "green": 0,
+                    "red": 0.1052949355971897
+                  },
+                  "fillType": 0,
+                  "isEnabled": true,
+                  "noiseIndex": 0,
+                  "noiseIntensity": 0,
+                  "patternFillType": 1,
+                  "patternTileScale": 1
+                }
+              ],
+              "miterLimit": 10,
+              "startDecorationType": 0
+            },
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                }
+              }
+            },
+            "windingRule": 1
+          }
+        ],
+        "name": "Onix",
+        "nameIsFixed": false,
+        "resizesContent": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0
+        },
+        "symbolID": "C44EC584-3C7C-40F5-8AD8-021ED9AB204D",
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        }
+      },
+      "sourceLibraryName": "GOAT__color",
+      "symbolMaster": {
+        "_class": "symbolMaster",
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "changeIdentifier": 0,
+        "do_objectID": "56D4559A-A849-4417-9B7D-F5FA48309366",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 200,
+          "width": 200,
+          "x": 1271,
+          "y": 0
+        },
+        "hasBackgroundColor": false,
+        "hasClickThrough": true,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": true,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "layers": [
+          {
+            "_class": "shapeGroup",
+            "clippingMaskMode": 0,
+            "do_objectID": "05F39A1F-739C-4C0D-9C10-2C6BD61CC5E6",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": false,
+              "height": 199.9999999999999,
+              "width": 200,
+              "x": -2.842170943040401e-14,
+              "y": -5.684341886080801e-14
+            },
+            "hasClickThrough": false,
+            "hasClippingMask": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 1,
+            "layers": [
+              {
+                "_class": "rectangle",
+                "booleanOperation": -1,
+                "do_objectID": "37DB69D3-C42C-4BFF-8CDD-254E95DCCED4",
+                "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
+                "fixedRadius": 0,
+                "frame": {
+                  "_class": "rect",
+                  "constrainProportions": false,
+                  "height": 199.9999999999999,
+                  "width": 200,
+                  "x": 0,
+                  "y": 0
+                },
+                "hasConvertedToNewRoundCorners": true,
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "isLocked": false,
+                "isVisible": true,
+                "layerListExpandedType": 0,
+                "name": "Path",
+                "nameIsFixed": false,
+                "path": {
+                  "_class": "path",
+                  "isClosed": true,
+                  "pointRadiusBehaviour": 0,
+                  "points": [
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{0, 0}",
+                      "curveMode": 1,
+                      "curveTo": "{0, 0}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{0, 0}"
+                    },
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{1, 0}",
+                      "curveMode": 1,
+                      "curveTo": "{1, 0}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{1, 0}"
+                    },
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{1, 1}",
+                      "curveMode": 1,
+                      "curveTo": "{1, 1}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{1, 1}"
+                    },
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{0, 1}",
+                      "curveMode": 1,
+                      "curveTo": "{0, 1}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{0, 1}"
+                    }
+                  ]
+                },
+                "resizingConstraint": 63,
+                "resizingType": 0,
+                "rotation": 0,
+                "shouldBreakMaskChain": false
+              }
+            ],
+            "name": "Color",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "borders": [
+                {
+                  "_class": "border",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.592,
+                    "green": 0.592,
+                    "red": 0.592
+                  },
+                  "fillType": 0,
+                  "isEnabled": false,
+                  "position": 1,
+                  "thickness": 1
+                }
+              ],
+              "endDecorationType": 0,
+              "fills": [
+                {
+                  "_class": "fill",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.1529283588435374,
+                    "green": 0,
+                    "red": 0.1052949355971897
+                  },
+                  "fillType": 0,
+                  "isEnabled": true,
+                  "noiseIndex": 0,
+                  "noiseIntensity": 0,
+                  "patternFillType": 1,
+                  "patternTileScale": 1
+                }
+              ],
+              "miterLimit": 10,
+              "startDecorationType": 0
+            },
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                }
+              }
+            },
+            "windingRule": 1
+          }
+        ],
+        "name": "Onix",
+        "nameIsFixed": false,
+        "resizesContent": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0
+        },
+        "symbolID": "27B52A45-5A59-4003-860D-8C111616B946",
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        }
+      }
+    },
+    {
+      "_class": "MSImmutableForeignSymbol",
+      "libraryID": "24D65677-32E2-4022-B33E-F4B3EDB1E241",
+      "originalMaster": {
+        "_class": "symbolMaster",
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "changeIdentifier": 0,
+        "do_objectID": "6CE981B3-CDFD-4947-9FFF-8E5F678DA24B",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 200,
+          "width": 200,
+          "x": 2171,
+          "y": 0
+        },
+        "hasBackgroundColor": false,
+        "hasClickThrough": true,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": true,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "layers": [
+          {
+            "_class": "shapeGroup",
+            "clippingMaskMode": 0,
+            "do_objectID": "3C0CAC3B-F4FC-4FB9-AF26-8493C12DB1DD",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": false,
+              "height": 199.9999999999999,
+              "width": 200,
+              "x": -2.842170943040401e-14,
+              "y": -5.684341886080801e-14
+            },
+            "hasClickThrough": false,
+            "hasClippingMask": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 1,
+            "layers": [
+              {
+                "_class": "rectangle",
+                "booleanOperation": -1,
+                "do_objectID": "FCF0CD6C-37C2-43BA-8D02-85943B53FB48",
+                "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
+                "fixedRadius": 0,
+                "frame": {
+                  "_class": "rect",
+                  "constrainProportions": false,
+                  "height": 199.9999999999999,
+                  "width": 200,
+                  "x": 0,
+                  "y": 0
+                },
+                "hasConvertedToNewRoundCorners": true,
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "isLocked": false,
+                "isVisible": true,
+                "layerListExpandedType": 0,
+                "name": "Path",
+                "nameIsFixed": false,
+                "path": {
+                  "_class": "path",
+                  "isClosed": true,
+                  "pointRadiusBehaviour": 0,
+                  "points": [
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{0, 0}",
+                      "curveMode": 1,
+                      "curveTo": "{0, 0}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{0, 0}"
+                    },
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{1, 0}",
+                      "curveMode": 1,
+                      "curveTo": "{1, 0}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{1, 0}"
+                    },
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{1, 1}",
+                      "curveMode": 1,
+                      "curveTo": "{1, 1}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{1, 1}"
+                    },
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{0, 1}",
+                      "curveMode": 1,
+                      "curveTo": "{0, 1}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{0, 1}"
+                    }
+                  ]
+                },
+                "resizingConstraint": 63,
+                "resizingType": 0,
+                "rotation": 0,
+                "shouldBreakMaskChain": false
+              }
+            ],
+            "name": "Color",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "borders": [
+                {
+                  "_class": "border",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.592,
+                    "green": 0.592,
+                    "red": 0.592
+                  },
+                  "fillType": 0,
+                  "isEnabled": false,
+                  "position": 1,
+                  "thickness": 1
+                }
+              ],
+              "endDecorationType": 0,
+              "fills": [
+                {
+                  "_class": "fill",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.2352941176470587,
+                    "green": 0.08627450980392157,
+                    "red": 0.5019607843137255
+                  },
+                  "fillType": 0,
+                  "isEnabled": true,
+                  "noiseIndex": 0,
+                  "noiseIntensity": 0,
+                  "patternFillType": 1,
+                  "patternTileScale": 1
+                }
+              ],
+              "miterLimit": 10,
+              "startDecorationType": 0
+            },
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                }
+              }
+            },
+            "windingRule": 1
+          }
+        ],
+        "name": "Burgundy",
+        "nameIsFixed": false,
+        "resizesContent": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0
+        },
+        "symbolID": "88765549-A129-4EDD-9C46-00BBDF0E92A4",
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        }
+      },
+      "sourceLibraryName": "GOAT__color",
+      "symbolMaster": {
+        "_class": "symbolMaster",
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "changeIdentifier": 0,
+        "do_objectID": "6CE981B3-CDFD-4947-9FFF-8E5F678DA24B",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 200,
+          "width": 200,
+          "x": 2171,
+          "y": 0
+        },
+        "hasBackgroundColor": false,
+        "hasClickThrough": true,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": true,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "layers": [
+          {
+            "_class": "shapeGroup",
+            "clippingMaskMode": 0,
+            "do_objectID": "3C0CAC3B-F4FC-4FB9-AF26-8493C12DB1DD",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": false,
+              "height": 199.9999999999999,
+              "width": 200,
+              "x": -2.842170943040401e-14,
+              "y": -5.684341886080801e-14
+            },
+            "hasClickThrough": false,
+            "hasClippingMask": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 1,
+            "layers": [
+              {
+                "_class": "rectangle",
+                "booleanOperation": -1,
+                "do_objectID": "FCF0CD6C-37C2-43BA-8D02-85943B53FB48",
+                "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
+                "fixedRadius": 0,
+                "frame": {
+                  "_class": "rect",
+                  "constrainProportions": false,
+                  "height": 199.9999999999999,
+                  "width": 200,
+                  "x": 0,
+                  "y": 0
+                },
+                "hasConvertedToNewRoundCorners": true,
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "isLocked": false,
+                "isVisible": true,
+                "layerListExpandedType": 0,
+                "name": "Path",
+                "nameIsFixed": false,
+                "path": {
+                  "_class": "path",
+                  "isClosed": true,
+                  "pointRadiusBehaviour": 0,
+                  "points": [
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{0, 0}",
+                      "curveMode": 1,
+                      "curveTo": "{0, 0}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{0, 0}"
+                    },
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{1, 0}",
+                      "curveMode": 1,
+                      "curveTo": "{1, 0}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{1, 0}"
+                    },
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{1, 1}",
+                      "curveMode": 1,
+                      "curveTo": "{1, 1}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{1, 1}"
+                    },
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{0, 1}",
+                      "curveMode": 1,
+                      "curveTo": "{0, 1}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{0, 1}"
+                    }
+                  ]
+                },
+                "resizingConstraint": 63,
+                "resizingType": 0,
+                "rotation": 0,
+                "shouldBreakMaskChain": false
+              }
+            ],
+            "name": "Color",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "borders": [
+                {
+                  "_class": "border",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.592,
+                    "green": 0.592,
+                    "red": 0.592
+                  },
+                  "fillType": 0,
+                  "isEnabled": false,
+                  "position": 1,
+                  "thickness": 1
+                }
+              ],
+              "endDecorationType": 0,
+              "fills": [
+                {
+                  "_class": "fill",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.2352941176470587,
+                    "green": 0.08627450980392157,
+                    "red": 0.5019607843137255
+                  },
+                  "fillType": 0,
+                  "isEnabled": true,
+                  "noiseIndex": 0,
+                  "noiseIntensity": 0,
+                  "patternFillType": 1,
+                  "patternTileScale": 1
+                }
+              ],
+              "miterLimit": 10,
+              "startDecorationType": 0
+            },
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                }
+              }
+            },
+            "windingRule": 1
+          }
+        ],
+        "name": "Burgundy",
+        "nameIsFixed": false,
+        "resizesContent": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0
+        },
+        "symbolID": "B244FE2D-CDDA-4E32-B169-2898D2DFBB2D",
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        }
+      }
+    },
+    {
+      "_class": "MSImmutableForeignSymbol",
+      "libraryID": "24D65677-32E2-4022-B33E-F4B3EDB1E241",
+      "originalMaster": {
+        "_class": "symbolMaster",
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "changeIdentifier": 0,
+        "do_objectID": "1507539B-FEE9-4EBD-8EAB-4D2A6C3827E7",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 200,
+          "width": 200,
+          "x": 1871,
+          "y": 0
+        },
+        "hasBackgroundColor": false,
+        "hasClickThrough": true,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": true,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "layers": [
+          {
+            "_class": "shapeGroup",
+            "clippingMaskMode": 0,
+            "do_objectID": "A8D0D2C1-18BD-4505-AB81-DAED6B59A5A0",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": false,
+              "height": 199.9999999999999,
+              "width": 200,
+              "x": -2.842170943040401e-14,
+              "y": -5.684341886080801e-14
+            },
+            "hasClickThrough": false,
+            "hasClippingMask": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 1,
+            "layers": [
+              {
+                "_class": "rectangle",
+                "booleanOperation": -1,
+                "do_objectID": "4F40E3D1-6D99-425B-8A25-6AA06AAE8594",
+                "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
+                "fixedRadius": 0,
+                "frame": {
+                  "_class": "rect",
+                  "constrainProportions": false,
+                  "height": 199.9999999999999,
+                  "width": 200,
+                  "x": 0,
+                  "y": 0
+                },
+                "hasConvertedToNewRoundCorners": true,
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "isLocked": false,
+                "isVisible": true,
+                "layerListExpandedType": 0,
+                "name": "Path",
+                "nameIsFixed": false,
+                "path": {
+                  "_class": "path",
+                  "isClosed": true,
+                  "pointRadiusBehaviour": 0,
+                  "points": [
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{0, 0}",
+                      "curveMode": 1,
+                      "curveTo": "{0, 0}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{0, 0}"
+                    },
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{1, 0}",
+                      "curveMode": 1,
+                      "curveTo": "{1, 0}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{1, 0}"
+                    },
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{1, 1}",
+                      "curveMode": 1,
+                      "curveTo": "{1, 1}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{1, 1}"
+                    },
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{0, 1}",
+                      "curveMode": 1,
+                      "curveTo": "{0, 1}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{0, 1}"
+                    }
+                  ]
+                },
+                "resizingConstraint": 63,
+                "resizingType": 0,
+                "rotation": 0,
+                "shouldBreakMaskChain": false
+              }
+            ],
+            "name": "Color",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "borders": [
+                {
+                  "_class": "border",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.592,
+                    "green": 0.592,
+                    "red": 0.592
+                  },
+                  "fillType": 0,
+                  "isEnabled": false,
+                  "position": 1,
+                  "thickness": 1
+                }
+              ],
+              "endDecorationType": 0,
+              "fills": [
+                {
+                  "_class": "fill",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.9372549019607843,
+                    "green": 0.0392156862745098,
+                    "red": 0.1137254901960783
+                  },
+                  "fillType": 0,
+                  "isEnabled": true,
+                  "noiseIndex": 0,
+                  "noiseIntensity": 0,
+                  "patternFillType": 1,
+                  "patternTileScale": 1
+                }
+              ],
+              "miterLimit": 10,
+              "startDecorationType": 0
+            },
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                }
+              }
+            },
+            "windingRule": 1
+          }
+        ],
+        "name": "Blue",
+        "nameIsFixed": false,
+        "resizesContent": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0
+        },
+        "symbolID": "62228F61-45A7-4F4B-ABCD-24DC3AC1854E",
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        }
+      },
+      "sourceLibraryName": "GOAT__color",
+      "symbolMaster": {
+        "_class": "symbolMaster",
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "changeIdentifier": 0,
+        "do_objectID": "1507539B-FEE9-4EBD-8EAB-4D2A6C3827E7",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 200,
+          "width": 200,
+          "x": 1871,
+          "y": 0
+        },
+        "hasBackgroundColor": false,
+        "hasClickThrough": true,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": true,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "layers": [
+          {
+            "_class": "shapeGroup",
+            "clippingMaskMode": 0,
+            "do_objectID": "A8D0D2C1-18BD-4505-AB81-DAED6B59A5A0",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": false,
+              "height": 199.9999999999999,
+              "width": 200,
+              "x": -2.842170943040401e-14,
+              "y": -5.684341886080801e-14
+            },
+            "hasClickThrough": false,
+            "hasClippingMask": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 1,
+            "layers": [
+              {
+                "_class": "rectangle",
+                "booleanOperation": -1,
+                "do_objectID": "4F40E3D1-6D99-425B-8A25-6AA06AAE8594",
+                "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
+                "fixedRadius": 0,
+                "frame": {
+                  "_class": "rect",
+                  "constrainProportions": false,
+                  "height": 199.9999999999999,
+                  "width": 200,
+                  "x": 0,
+                  "y": 0
+                },
+                "hasConvertedToNewRoundCorners": true,
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "isLocked": false,
+                "isVisible": true,
+                "layerListExpandedType": 0,
+                "name": "Path",
+                "nameIsFixed": false,
+                "path": {
+                  "_class": "path",
+                  "isClosed": true,
+                  "pointRadiusBehaviour": 0,
+                  "points": [
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{0, 0}",
+                      "curveMode": 1,
+                      "curveTo": "{0, 0}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{0, 0}"
+                    },
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{1, 0}",
+                      "curveMode": 1,
+                      "curveTo": "{1, 0}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{1, 0}"
+                    },
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{1, 1}",
+                      "curveMode": 1,
+                      "curveTo": "{1, 1}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{1, 1}"
+                    },
+                    {
+                      "_class": "curvePoint",
+                      "cornerRadius": 0,
+                      "curveFrom": "{0, 1}",
+                      "curveMode": 1,
+                      "curveTo": "{0, 1}",
+                      "hasCurveFrom": false,
+                      "hasCurveTo": false,
+                      "point": "{0, 1}"
+                    }
+                  ]
+                },
+                "resizingConstraint": 63,
+                "resizingType": 0,
+                "rotation": 0,
+                "shouldBreakMaskChain": false
+              }
+            ],
+            "name": "Color",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "borders": [
+                {
+                  "_class": "border",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.592,
+                    "green": 0.592,
+                    "red": 0.592
+                  },
+                  "fillType": 0,
+                  "isEnabled": false,
+                  "position": 1,
+                  "thickness": 1
+                }
+              ],
+              "endDecorationType": 0,
+              "fills": [
+                {
+                  "_class": "fill",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.9372549019607843,
+                    "green": 0.0392156862745098,
+                    "red": 0.1137254901960783
+                  },
+                  "fillType": 0,
+                  "isEnabled": true,
+                  "noiseIndex": 0,
+                  "noiseIntensity": 0,
+                  "patternFillType": 1,
+                  "patternTileScale": 1
+                }
+              ],
+              "miterLimit": 10,
+              "startDecorationType": 0
+            },
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                }
+              }
+            },
+            "windingRule": 1
+          }
+        ],
+        "name": "Blue",
+        "nameIsFixed": false,
+        "resizesContent": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0
+        },
+        "symbolID": "F397DDB6-B331-4284-B271-BFB0227A760D",
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        }
+      }
+    }
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "48.2",
+    "build": 47327,
+    "commit": "b8111e3393c4ca1f2399ecfdfc1e9488029ebe7b",
+    "version": 97
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
